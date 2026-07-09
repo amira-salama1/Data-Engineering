@@ -2,9 +2,9 @@ This is a project example from [DataCamp](https://app.datacamp.com/learn/project
 
 * Retail Store : Walmart a multinational retail corporation . 
 * Data Sources : 
-  * retrieve data from different sources, like SQL and parquet;
+  * retrieve data from different sources, like SQL and parquet
   
 Pipeline:
 * Extract Data
-* Transform : prepare the data using some transformation techniques
+* Transform : prepare the data using some transformation techniques using Python
 * Load: and finally load the data in an easy-to-access format.
