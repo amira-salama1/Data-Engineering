@@ -2,7 +2,7 @@ This is a project example from [DataCamp](https://app.datacamp.com/learn/project
 
 * Retail Store : Walmart a multinational retail corporation . 
 * Data Sources : 
-  * retrieve data from different sources, e.g. SQL and parquet
+  * retrieve data from different sources, e.g. SQL and parquet.
   
 Pipeline:
 * Extract Data
