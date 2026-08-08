@@ -1,1 +1,1 @@
-This folder listing 2 data sources which will be the Extraction part for the ETL.
+This folder listing 2 data sources which will be the Extraction part for the ETL process.
