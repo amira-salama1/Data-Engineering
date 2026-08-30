@@ -1,4 +1,4 @@
-This is a project example from [DataCamp](https://app.datacamp.com/learn/projects/1833)'s projects, the task is to a build Retail Data Pipeline
+This is a project example from [DataCamp](https://app.datacamp.com/learn/projects/1833)'s projects, the task is to a build Retail Data Pipeline.
 
 * Retail Store : Walmart a multinational retail corporation. 
 * Data Sources : 
