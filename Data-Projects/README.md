@@ -1,1 +1,1 @@
-This is a folder for different Data Projects 
+This folder is for different Data Engineering Projects 
