@@ -1,1 +1,1 @@
-From The Data Analysis with SQL & dbt Book
+From The Analytics Engineering with SQL & dbt Book
