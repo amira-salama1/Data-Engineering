@@ -5,6 +5,6 @@ This is a project example from [DataCamp](https://app.datacamp.com/learn/project
   * retrieve data from different sources, e.g. SQL and parquet.
   
 Pipeline:
-* Extract Data
+* Extract raw Data
 * Transform : prepare the data using some transformation techniques using Python
 * Load: and finally load the data in an easy-to-access format.
