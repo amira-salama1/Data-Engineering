@@ -1,1 +1,1 @@
-This is the use case in the book
+This is an end-to-end use case in the book
